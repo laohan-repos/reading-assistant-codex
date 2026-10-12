@@ -1,0 +1,4 @@
+interface:
+  display_name: "读书助手"
+  short_description: "输入书名或随机选书，整理七部分阅读笔记并生成Word保存到当前工作区"
+  default_prompt: "使用 $reading-assistant 读书助手整理《西游记》，生成七部分阅读笔记，并按书名_阅读整理_生成日期.docx保存到当前工作区。"
